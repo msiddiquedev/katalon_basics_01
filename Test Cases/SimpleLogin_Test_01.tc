@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SimpleLogin_Test_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d28316f4-041a-4d64-bd95-0289c19e6229</testCaseGuid>
+</TestCaseEntity>
